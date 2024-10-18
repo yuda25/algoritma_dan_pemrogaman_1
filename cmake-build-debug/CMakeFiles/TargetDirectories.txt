@@ -1,0 +1,3 @@
+D:/Kuliah/cpp/cmake-build-debug/CMakeFiles/soal_latihan.dir
+D:/Kuliah/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Kuliah/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+# ninja log v6
+12	467	7509642779034842	CMakeFiles/soal_latihan.dir/main.cpp.obj	a8fc01feb41959d6
+868	1134	7488023979786029	soal_latihan.exe	fd19a94588fff710
+18	468	7509642779087760	CMakeFiles/soal_latihan.dir/tugasPertama/master.cpp.obj	2977ace36e5f62b7
+13	358	7509644725221300	CMakeFiles/soal_latihan.dir/tugasPertama/master.cpp.obj	2977ace36e5f62b7
+9	376	7509644725180394	CMakeFiles/soal_latihan.dir/main.cpp.obj	a8fc01feb41959d6
+376	437	7509644728846358	soal_latihan.exe	e9b4654c57f55a5f
+14	351	7509647651562609	CMakeFiles/soal_latihan.dir/tugasPertama/master.cpp.obj	2977ace36e5f62b7
+11	356	7509647651525549	CMakeFiles/soal_latihan.dir/main.cpp.obj	a8fc01feb41959d6
+357	419	7509647654984388	soal_latihan.exe	e9b4654c57f55a5f
+3	323	7509649328910947	CMakeFiles/soal_latihan.dir/main.cpp.obj	a8fc01feb41959d6
+323	387	7509649332105600	soal_latihan.exe	e9b4654c57f55a5f
+3	306	7509649614548057	CMakeFiles/soal_latihan.dir/main.cpp.obj	a8fc01feb41959d6
+306	367	7509649617572454	soal_latihan.exe	e9b4654c57f55a5f
+4	338	7509650029225357	CMakeFiles/soal_latihan.dir/main.cpp.obj	a8fc01feb41959d6
+338	402	7509650032554485	soal_latihan.exe	e9b4654c57f55a5f
+3	301	7509650743153107	CMakeFiles/soal_latihan.dir/main.cpp.obj	a8fc01feb41959d6
+302	365	7509650746133614	soal_latihan.exe	e9b4654c57f55a5f
