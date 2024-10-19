@@ -61,6 +61,12 @@ build CMakeFiles/soal_latihan.dir/tugasPertama/master.cpp.obj: CXX_COMPILER__soa
   OBJECT_DIR = CMakeFiles\soal_latihan.dir
   OBJECT_FILE_DIR = CMakeFiles\soal_latihan.dir\tugasPertama
 
+build CMakeFiles/soal_latihan.dir/tugasKedua/master2.cpp.obj: CXX_COMPILER__soal_latihan_unscanned_Debug D$:/Kuliah/cpp/tugasKedua/master2.cpp || cmake_object_order_depends_target_soal_latihan
+  DEP_FILE = CMakeFiles\soal_latihan.dir\tugasKedua\master2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\soal_latihan.dir
+  OBJECT_FILE_DIR = CMakeFiles\soal_latihan.dir\tugasKedua
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target soal_latihan
@@ -69,7 +75,7 @@ build CMakeFiles/soal_latihan.dir/tugasPertama/master.cpp.obj: CXX_COMPILER__soa
 #############################################
 # Link the executable soal_latihan.exe
 
-build soal_latihan.exe: CXX_EXECUTABLE_LINKER__soal_latihan_Debug CMakeFiles/soal_latihan.dir/main.cpp.obj CMakeFiles/soal_latihan.dir/tugasPertama/master.cpp.obj
+build soal_latihan.exe: CXX_EXECUTABLE_LINKER__soal_latihan_Debug CMakeFiles/soal_latihan.dir/main.cpp.obj CMakeFiles/soal_latihan.dir/tugasPertama/master.cpp.obj CMakeFiles/soal_latihan.dir/tugasKedua/master2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\soal_latihan.dir
