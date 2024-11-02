@@ -10,4 +10,6 @@ add_executable(soal_latihan main.cpp
         tugasKedua/master2.h
         tugasketiga/master3.cpp
         tugasketiga/master3.h
+        uts/masterUTS.cpp
+        uts/masterUTS.h
 )
